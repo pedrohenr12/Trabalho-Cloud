@@ -9,11 +9,11 @@ Essa API simula um CRUD básico de clientes utilizando Node.js e Express, com da
 *Clone o repositório:*
 
 ```sh
-git clone *Coloca o link do seu repository aqui
+git clone https://github.com/pedrohenr12/Trabalho-Cloud.git
 ```
 
 ```sh
-cd *Nome do seu reposytori
+cd Trabalho-Cloud
 ```
 
 ```sh
